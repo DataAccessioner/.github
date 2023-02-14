@@ -1,6 +1,6 @@
 **Notice:** *As of the beginning of 2023 the Data Accessioner no longer has any active developers maintaining it. If you are interested in reviving the project, please contact [Seth Shaw](mailto:seth.e.shaw@gmail.com?subject=DataAccessioner%20Feedback%2FQuestion).*
 
-The Data Accessioner (DA) is a simple tool, with an easy-to-use graphic interface, for migrating content between media while also:
+The [Data Accessioner](https://github.com/DataAccessioner/DataAccessioner) (DA) is a simple tool, with an easy-to-use graphic interface, for migrating content between media while also:
 
   - creating and validating checksums,
   - gathering metadata (via FITS),
@@ -12,7 +12,7 @@ The very first version of the tool was created by Seth Shaw in the course of a w
 
 Later versions (0.3.1 and 1.0.0-beta) were made possible by the [POWRR Project](http://digitalpowrr.niu.edu/). *As of these versions the Data Accessioner is no longer formally associated with the Duke University Archives or their parent organization.*
 
-The latest update of Data Accessioner (1.1), released on Feb. 1, 2017, was done by Scott Prater for the Archives of the Episcopal Church.
+The latest significant update to Data Accessioner (1.1), released on Feb. 1, 2017, was done by Scott Prater for the Archives of the Episcopal Church.
 
 ## Additional Tools
 For those of you who are uncomfortable reading (or transforming) the XML-based metadata files produced by the DA, take a look at the [Data Accessioner Metadata Transformer (XSLTProcessor)](https://github.com/DataAccessioner/XSLTProcessor).
